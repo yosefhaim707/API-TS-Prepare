@@ -1,0 +1,20 @@
+{
+  "name": "api-ts-prepare",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node dist/app.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
